@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "dating app",
+  "main": "server.js",
+  "scripts": {
+    "test": "hello!",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpmks1/FriendFinder.git"
+  },
+  "author": "Miranda Swartwood/UCSDExtension",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpmks1/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/mpmks1/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
